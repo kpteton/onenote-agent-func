@@ -1,0 +1,8 @@
+{
+  "name": "onenote-agent",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@azure/msal-node": "^3.8.0"
+  }
+}
